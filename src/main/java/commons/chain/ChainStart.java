@@ -2,7 +2,6 @@ package commons.chain;
 
 import org.apache.commons.chain.Catalog;
 import org.apache.commons.chain.Command;
-import org.apache.commons.chain.impl.CatalogFactoryBase;
 
 import static commons.chain.AtmConstants.ATM_WITHDRAWAL_CHAIN;
 
